@@ -1,0 +1,19 @@
+{
+  "name": "taylor-todo",
+  "version": "1.0.0",
+  "description": "todo application to learn testing and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/councit/taylor-todo.git"
+  },
+  "keywords": [
+    "typescript",
+    "react-testing"
+  ],
+  "author": "Taylor Council",
+  "license": "ISC"
+}
